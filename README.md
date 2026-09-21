@@ -27,10 +27,6 @@ Open **[http://127.0.0.1:8080](http://127.0.0.1:8080)** in any browser to:
 
 ---
 
-## 🗺️ Topology Diagram
-
-![Enterprise Network Topology](diagrams/topology_diagram.svg)
-
 ### High-Resolution Logical Topology
 ```text
                             ┌────────────────────────┐

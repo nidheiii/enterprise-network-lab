@@ -165,12 +165,3 @@ $$\textbf{Issue} \longrightarrow \textbf{Symptoms} \longrightarrow \textbf{Comma
 5. Fix: Set `ip mtu 1500` under `interface GigabitEthernet0/1` on Router A.
 6. Verification: `show ip ospf neighbor` confirms transition to `FULL` state.
 ```
-
----
-
-## 💡 Interview Defense & Technical Talking Points
-
-Check out our comprehensive [Interview Defense Guide](docs/08_interview_cheat_sheet.md) featuring:
-- The **STAR Method** storytelling script for presenting this project to engineering managers.
-- Detailed answers to **15 core technical interview questions** across OSPF, IPsec, 802.1Q, STP, and ACL architecture.
-- Troubleshooting frameworks and command syntax references.
